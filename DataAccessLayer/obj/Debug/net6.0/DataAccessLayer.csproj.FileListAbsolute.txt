@@ -1,0 +1,60 @@
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 03\MVCProject\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\mvcProject2\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Assignment04MVC\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
