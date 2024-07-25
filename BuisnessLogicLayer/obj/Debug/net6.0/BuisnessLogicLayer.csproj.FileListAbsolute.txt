@@ -1,0 +1,75 @@
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.deps.json
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\bin\Debug\net6.0\DataAccesLayer.dll
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\bin\Debug\net6.0\DataAccesLayer.pdb
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\Buisness.081FFF6C.Up2Date
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\refint\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\MVCProject\BuisnessLogicLayer\obj\Debug\net6.0\ref\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\refint\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.deps.json
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\Buisness.081FFF6C.Up2Date
+G:\Route\Back End\MVC\mvcProject2\BuisnessLogicLayer\obj\Debug\net6.0\ref\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.deps.json
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\Buisness.081FFF6C.Up2Date
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\refint\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Assignment04MVC\BuisnessLogicLayer\obj\Debug\net6.0\ref\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.deps.json
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\Buisness.081FFF6C.Up2Date
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\refint\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Session 05\Assignment05MVC\BuisnessLogicLayer\obj\Debug\net6.0\ref\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.deps.json
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\bin\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.AssemblyInfo.cs
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\Buisness.081FFF6C.Up2Date
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\refint\BuisnessLogicLayer.dll
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\BuisnessLogicLayer.pdb
+G:\Route\Back End\MVC\Session 07\Assignment07MVC\BuisnessLogicLayer\obj\Debug\net6.0\ref\BuisnessLogicLayer.dll
