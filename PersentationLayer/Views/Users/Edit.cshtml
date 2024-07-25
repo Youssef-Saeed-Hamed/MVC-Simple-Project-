@@ -1,0 +1,18 @@
+﻿@model UsersVM
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<div>
+	<div asp-validation-summary="All"></div>
+
+	<form method="post" asp-action="Edit" enctype="multipart/form-data">
+		<div>
+			<partial name="PartialViews/CreateOrEditForm" class="m-3"></partial>
+			
+			<input type="submit" class="btn btn-primary" value="Save" />
+			<a asp-action="Index" class="btn btn-outline-primary">Back To List</a>
+		</div>
+	</form>
+</div>
+

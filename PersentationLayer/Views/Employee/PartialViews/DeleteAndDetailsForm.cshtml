@@ -1,0 +1,41 @@
+﻿
+@model EmployeeVM
+@{
+	var dept = ViewBag.Dept;
+}
+<input hidden asp-for="ImageName" />
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Name">Name</label>
+	<input readonly class="form-control" asp-for="Name" />
+	<span asp-validation-for="Name"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Department">Department</label>	
+	<input readonly type="type" class="form-control" name="name" value="@dept" />
+	<span asp-validation-for="Department"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Age">Age</label>
+	<input readonly class="form-control" asp-for="Age" />
+	<span asp-validation-for="Age"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Address">Address</label>
+	<input readonly class="form-control" asp-for="Address" />
+	<span asp-validation-for="Address"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Email">Email</label>
+	<input readonly class="form-control" asp-for="Email" />
+	<span asp-validation-for="Email"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Phone">Phone</label>
+	<input readonly class="form-control" asp-for="Phone" />
+	<span asp-validation-for="Phone"></span>
+</div>
+<div class="form-group w-50">
+	<label class="col-form-label" asp-for="Phone">IsActive</label>
+	<input readonly type="checkbox" class="bg-primary" asp-for="IsActive" />
+	<span asp-validation-for="IsActive"></span>
+</div>

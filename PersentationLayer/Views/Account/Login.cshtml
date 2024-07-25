@@ -1,0 +1,47 @@
+﻿@model SignInVM
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+
+<h1>Creative SignIn Form</h1>
+<div class="main-agileinfo">
+	<div class="agileits-top">
+		<form asp-action="Login" method="post">
+			<div asp-validation-summary="All"></div>
+				
+
+				<input class="text email" asp-for="Email" placeholder="Email" required="">
+				<span class="text-danger" asp-validation-for="Email"></span>
+
+
+				<input class="text" type="password"  asp-for="Password" placeholder="Password" required="">
+				<span class="text-danger" asp-validation-for="Password"></span>
+
+
+			
+
+			
+			<div class="wthree-text">
+				<label class="anim">
+					<input asp-for="RememberMe" type="checkbox" class="checkbox" required="">
+					<span>Sign In Any Time</span>
+				</label>
+				<div class="clear"> </div>
+			</div>
+			<input type="submit" value="SignIn">
+		</form>
+		<p>You Don't' have an Account? <a asp-action="Register"> Register Now!</a></p>
+		<p>Forget Your Password <a asp-action="ForgetPassword"> Reset Password!</a></p>
+	</div>
+</div>
+
+
+@section Validations {
+	<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+} 
+
+
+ 
